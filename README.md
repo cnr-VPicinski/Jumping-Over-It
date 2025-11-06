@@ -1,2 +1,0 @@
-# Jumping-Over-It
-WebGL
